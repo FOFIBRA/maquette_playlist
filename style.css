@@ -1,0 +1,106 @@
+body{
+    padding: 0px;
+    margin: 0px;
+    background-color: aliceblue;
+}
+.container{
+    margin: 10px;
+    border-radius: 25px 25px 25px 25px;
+    background-color: #e04d4d;
+    color: #fff;
+   
+}
+.header{
+    display: flex;
+    padding: 25px;
+    
+}
+.head_left{
+    margin-left: 25px;  
+    font-family: 'Courier New', Courier, monospace; 
+}
+.menu{
+    padding-left:350px;
+    word-spacing: 5px;
+    padding-block: 20px;
+      
+}
+a{
+    color: #fff;
+}
+.bouton{
+    padding-left: 390px;
+    padding-block: 25px;
+    
+}
+.bouton button{
+    padding: 10px;
+    border-radius: 15px;
+    color: #fff;
+    background-color:#e04d4d;
+    overflow: visible;
+}
+.corp{
+  /* font-family: 'Courier New', Courier, monospace;*/
+    padding-block: 50px;
+}
+.titre h1{
+    padding-left: 10px;
+}
+.para{
+    padding-left: 120px;
+}
+
+    
+
+.btn .left button{
+    padding: 10px;
+    border: solid;
+    border-radius: 15px;
+    margin-top: 190px;
+    background-color: rgb(109, 21, 21);
+    color: #35BBFE;
+    
+}
+.bouton .right button{
+    margin-top: 225px;
+    background-color: rgb(109, 21, 21);
+}
+.image img{
+    padding-left: 410px;
+    margin-top: -70px;
+}
+.image .lorem{
+    margin-left: 45px;
+    margin-top: -60px;
+    font-weight: 400;
+    font-family: 'Courier New', Courier, monospace;
+}
+.box .percent{
+    position: relative;
+    width: 50%;
+    height: 6px;
+    background: #081921;
+    display: block;
+    margin-top: 5px;
+}
+
+.box.percent div
+{
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    background: #03a9f4;
+}
+.box{
+    padding-left: 1000px;
+    margin-top: -100px;
+
+}
+.box .text{
+    padding-left: 90px;
+}
+h3{
+    color:#e04d4d;
+}
